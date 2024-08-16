@@ -5,6 +5,11 @@ Reference URLs: -
 
 1. https://www.kernel.org/doc/html/v4.17/process/submitting-patches.html
 
-2. https://www.youtube.com/watch?v=FZR9U98D_jY
+2. Johannes: 
+	https://www.youtube.com/watch?v=uLiAc_CnqZE&t=647s
 
-3. https://www.youtube.com/watch?v=LLBrBBImJt4
+3. https://www.youtube.com/watch?v=FZR9U98D_jY
+
+4. https://www.youtube.com/watch?v=LLBrBBImJt4
+
+5. https://www.youtube.com/watch?v=QBR06ml2YLQ
