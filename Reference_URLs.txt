@@ -1,0 +1,8 @@
+
+
+Reference URLs: -
+====================
+
+1. https://www.kernel.org/doc/html/v4.17/process/submitting-patches.html
+
+2. https://www.youtube.com/watch?v=FZR9U98D_jY
